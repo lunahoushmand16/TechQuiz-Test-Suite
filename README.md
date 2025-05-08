@@ -59,9 +59,9 @@ The app is built using the MERN stack with a React front end, MongoDB database, 
 
 ### Screenshots:
 
-![SignUp page](./Assets/Sign-in%20page.png)
-![Login page](./Assets/login%20page.png)
-![Look for the save books/Delete](./Assets/Search%20for%20Book.png)
+![Start Quiz & Ansering Qtn](./Assets/Start-Answers%20Quiz.png)
+![Score Page](./Assets/Finished-Quiz.png)
+![E2E Testing on Cypress](./Assets/E2E-Testing-Cypress.png)
 
 ## Credits
 
