@@ -24,6 +24,8 @@ const Quiz = () => {
   };
 
   const handleAnswerClick = (isCorrect: boolean) => {
+    console.log('Answer clicked. Is correct?', isCorrect); // ✅ 
+
     if (isCorrect) {
       setScore(score + 1);
     }
